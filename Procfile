@@ -1,1 +1,2 @@
-web: gunicorn dj2-br.wsgi --log-file
+web: gunicorn proj.wsgi --log-file
+
